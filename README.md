@@ -117,6 +117,8 @@ The implementation of my recommendations was projected to deliver:
 
 My interactive Tableau dashboard featured five key components:
 
+https://public.tableau.com/shared/DDTWBRXTD?:display_count=n&:origin=viz_share_link 
+
 1. **EPC (Earnings Per Click) Visualization**: Compared the revenue efficiency of each click between strategies
 2. **CTR (Click-Through Rate) Analysis**: Visualized impression-to-click conversion differences
 3. **CR (Conversion Rate) Comparison**: Highlighted the superior purchase conversion of Average Bidding
